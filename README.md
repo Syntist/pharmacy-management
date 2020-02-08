@@ -6,7 +6,7 @@ Build using pharmacy.cpp (dev-c++)
 It's a Simple Command Line Project, 
 In which you can manage and order pharmacy items.
 
-Demo:
+# Demo:
 
 
 ![image](https://user-images.githubusercontent.com/24858150/74092094-7b014800-4ae1-11ea-8b1d-4fcbf6d95c6d.png)
