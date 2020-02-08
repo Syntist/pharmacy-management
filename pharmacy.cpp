@@ -1,7 +1,7 @@
 #include <iostream>
-#include "base.cpp"
-#include "functions.cpp"
-#include "order.cpp"
+#include "./library/base.cpp"
+#include "./library/functions.cpp"
+#include "./library/order.cpp"
 
 using namespace std;
 
